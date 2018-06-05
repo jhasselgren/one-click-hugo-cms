@@ -1,0 +1,15 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: ItemNr
+  label: Itemnumber
+  config:
+    required: true
+- type: text
+  label: Name
+  name: Name
+- type: textarea
+  name: Description
+  label: Description
