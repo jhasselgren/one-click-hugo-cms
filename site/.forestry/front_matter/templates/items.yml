@@ -13,3 +13,6 @@ fields:
 - type: textarea
   name: Description
   label: Description
+- type: image_gallery
+  name: images
+  label: Images
